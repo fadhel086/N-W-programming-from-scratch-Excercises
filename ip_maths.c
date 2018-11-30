@@ -1,3 +1,8 @@
+/*
+ * Compile: gcc ip_maths.c -o ip_maths -lm
+ * Run: ./ip_maths
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
